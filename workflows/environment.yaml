@@ -1,0 +1,10 @@
+name: create_microarray
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools=1.20
+  - Python=3.12.2
+  - conda:
+    - pandas

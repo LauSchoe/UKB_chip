@@ -1,2 +1,1 @@
-# UKB_chip
-Create a Microarray from UK Biobank mitochondrial SNP data and a Reference Panel.
+Create a Microarray from SNP data (.bim file) and a Reference Panel (.vcf.gz).
